@@ -8,7 +8,7 @@ import Login from "./Auth/Login";
 import Payment from "./pages/Payment";
 import UserManagement from "./pages/UserManagement";
 import Company from "./pages/Company";
-import Provinces from "./Pages/Provnces";
+import Provinces from "./pages/Provnces";
 import Treat from "./pages/Treat";
 import PaymentMethod from "./pages/Method";
 import "aos/dist/aos.css";
